@@ -37,7 +37,7 @@ The goal is to investigate potential neural markers of auditory familiarity usin
 
 - Python
 - [MNE](https://mne.tools/stable/index.html)
-- [MNE_bids](https://mne.tools/mne-bids/stable/index.html) (Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E., Gramfort, A., & Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software, 4:1896. DOI: 10.21105/joss.01896)
+- [MNE_bids](https://mne.tools/mne-bids/stable/index.html)
 - [Matplotlib](https://matplotlib.org)
 - [Pandas](https://pandas.pydata.org)
 - [Autoreject](https://autoreject.github.io/stable/index.html)
