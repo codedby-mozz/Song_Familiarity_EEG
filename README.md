@@ -61,6 +61,7 @@ This project supports my self-guided learning in cognitive neuroscience and EEG 
 The EEG data used in this project is sourced from **OpenNeuro**, a platform for open neuroimaging datasets. This analysis is based on one of the publicly available datasets, used here strictly for educational purposes.
 
 Dataset: Song Familiarity 
+
 DOI: [10.18112/openneuro.ds005876.v1.0.1](https://doi.org/10.18112/openneuro.ds005876.v1.0.1)
 
 ---
