@@ -27,7 +27,7 @@ The goal is to investigate potential neural markers of auditory familiarity usin
 - [x] Epoched data around labeled note events  
 - [x] Re-referenced and baseline-corrected the data
 - [ ] Preprocess EEG data for all participants 
-- [ ] Group-level ERP analysis (future work)  
+- [ ] Group-level ERP analysis 
 - [ ] Statistical comparison of conditions
 - [ ] Training an AI on EEG data to classify songs as familiar or unfamiliar
 
