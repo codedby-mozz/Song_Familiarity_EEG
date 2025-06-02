@@ -26,7 +26,8 @@ The goal is to investigate potential neural markers of auditory familiarity usin
 - [x] Applied artifact rejection (AutoReject)  
 - [x] Epoched data around labeled note events  
 - [x] Re-referenced and baseline-corrected the data
-- [ ] Preprocess EEG data for all participants 
+- [x] Preprocess EEG data for all participants
+- [ ] Manual inspection of epochs - Preprocessing was largely automated. I am now manually reviewing each participant's data to identify any remaining bad epochs or problematic channels. If any significant issues are found, I will revisit and adjust the preprocessing steps accordingly.
 - [ ] Group-level ERP analysis 
 - [ ] Statistical comparison of conditions
 - [ ] Training an AI on EEG data to classify songs as familiar or unfamiliar
