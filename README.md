@@ -27,7 +27,8 @@ The goal is to investigate potential neural markers of auditory familiarity usin
 - [x] Epoched data around labeled note events  
 - [x] Re-referenced and baseline-corrected the data
 - [x] Preprocess EEG data for all participants
-- [ ] Manual inspection of epochs - Preprocessing was largely automated. I am now manually reviewing each participant's data to identify any remaining bad epochs or problematic channels. If any significant issues are found, I will revisit and adjust the preprocessing steps accordingly.
+- [x] Manual inspection of epochs - Preprocessing was largely automated. I manually reviewed each participant's data to identify any remaining bad epochs or problematic channels. If any significant issues are found, I will revisit and adjust the preprocessing steps accordingly.
+- [ ] Reassess preprocessing steps - Some channels for certain participants are too noisy or completely "dead". I am currently reviewing and adjusting preprocessing methods to ensure data quality.
 - [ ] Group-level ERP analysis 
 - [ ] Statistical comparison of conditions
 - [ ] Training an AI on EEG data to classify songs as familiar or unfamiliar
