@@ -59,6 +59,13 @@ This project supports my self-guided learning in cognitive neuroscience and EEG 
 
 ---
 
+## 📝 Feedback Welcome!
+This project is part of my effort to gain hands-on experience with EEG data. While I have an academic background in cognitive neuroscience, most of what I’ve learned about working with EEG has come from self-study, online resources, and community forums—as it wasn’t a major focus in my coursework.
+
+Because of that, some of the approaches I’ve taken might be suboptimal or overlook more established solutions. If you have any feedback, suggestions, or deeper insights into EEG analysis, I’d genuinely love to hear from you! Whether it's a quick comment or a technical deep-dive, your input would be incredibly valuable as I continue to learn and grow in this area.
+
+---
+
 ## 🧠 Data Acknowledgment
 
 The EEG data used in this project is sourced from **OpenNeuro**, a platform for open neuroimaging datasets. This analysis is based on one of the publicly available datasets, used here strictly for educational purposes.
